@@ -1,0 +1,6 @@
+Arithmetic.class
+ArithmeticW.class
+Branch.class
+ImmediateInstruction.class
+Load.class
+Store.class
